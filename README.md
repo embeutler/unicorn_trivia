@@ -3,5 +3,6 @@
 *You have 2 minutes to answer 10 multi-choice questions about unicorns.*
 
 ## Technical Details 
-- Built with HTML5, CSS, JavaScript, & REST
-- Link: https://embeutler.github.io/TriviaGame/ 
+- Built with HTML5, CSS, JavaScript
+- Link: https://embeutler.github.io/unicorn_trivia
+ 
